@@ -6,7 +6,6 @@ using namespace std;
 
 int main(){
 
-
     srand(time(0));
 
     // Generate a random number between 0 and 11
